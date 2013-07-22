@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hey There!
+title: Thoughts and dreams
 tagline: .
 ---
 {% include JB/setup %}
